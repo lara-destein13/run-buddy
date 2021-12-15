@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
@@ -78,7 +79,6 @@ section {
     background-position: center;
     position: relative;
 }
-/* Hero Style End */
 
 .hero-form {
     border: 3px solid #024e76;
@@ -121,3 +121,4 @@ section {
     padding: 10px 20px;
     font-size: 16px;
 }
+/* HERO STYLES END */
